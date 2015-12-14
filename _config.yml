@@ -1,0 +1,28 @@
+name: PracticalWisdom
+favicon: null
+layout_spectrum: 0.5617029608692974
+typography_spectrum: 0.9324386592488736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5245836835820228
+  lightness: 0.9452086163219064
+  saturation: 0.8898109500296414
+  rhythmicContrast: 0.5976795570459217
+purpose: []
